@@ -1,3 +1,11 @@
+#### Name: [deepak0944](https://github.com/deepak00944)
+
+- Place: Madhya Pradesh, India
+- Bio: Machine Learning , Open Source Contributor, Web Developer
+- Affiliation : Vellore Institute Of Technology
+- GitHub: [deepak0944](https://github.com/deepak00944)
+
+
 #### Name: [Akanksha Rani](https://github.com/AkankshaAI)
 
 - Place: New Delhi,India
